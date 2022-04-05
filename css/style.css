@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap");
+
+button{
+	color: white;
+}
+
+#name{
+color: red;
+}
+
+#ci{
+	color: red;
+}
+#lastname{
+color: red;
+}
+#edad{
+color: red;
+}
+
+h1,h2{
+font-family: 'Fascinate Inline', cursive;
+}
+h2{
+font-family: 'Fascinate Inline',cursive;
+}
+
+
+#IdNombre {
+    border-radius: 50px;
+}
+
+#IdApellido{
+    border-radius: 50px;
+}
+
+#Idcedula{
+    border-radius: 50px;
+}
+
+#IdlineaTele{
+    border-radius: 50px;
+}
+
+#Idaddress{
+    border-radius: 50px;
+}
